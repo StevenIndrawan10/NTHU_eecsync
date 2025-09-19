@@ -29,7 +29,7 @@
 ---
 
 ## 🧩 Built With
-
+- **Flutter
 - **Generative AI (Prompt Engineering):** Customized instruction-based prompts to enhance recommendation and matching logic.
 - **Firebase Realtime Database / Firestore:** Stores and syncs user data, academic records, and job listings in real time.
 - **Constraint-based Input Design:** Ensures contextual relevance and logical filtering.
